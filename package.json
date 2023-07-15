@@ -6,7 +6,7 @@
   "scripts": {
     "build": "rm -rf dist && rollup -c",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
+    "build-storybook": "storybook build -o docs",
     "prepack": "npm run build"
   },
   "keywords": [],
