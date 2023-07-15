@@ -1,6 +1,6 @@
 {
   "name": "sb-lib-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "스토리북이 있는 컴포넌트 테스트",
   "main": "dist/esm/index.js",
   "scripts": {
